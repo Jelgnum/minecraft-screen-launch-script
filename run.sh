@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/env bash
 #Creates Screen instance
 screen -d -m -S "Minecraft Server"
 
