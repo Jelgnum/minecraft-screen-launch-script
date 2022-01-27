@@ -2,7 +2,6 @@
 A script for launching a Minecraft Server into a [Screen](https://www.gnu.org/software/screen/) instance in linux
 ## Important
   - This is a framework, you will have to set up the args and server jar name
-  - The terminal launch command will need to be changed if you aren't using Konsole
   - You mush have Screen installed
  
 ## Install
@@ -29,4 +28,8 @@ sudo pacman -S screen
  ### Editing File
  
  File has comments with simple explanations
- (to be continued)
+ (readme wip)
+ ## Setting Args
+ ```sh
+
+ ```
