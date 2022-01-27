@@ -9,9 +9,8 @@ screen -d -m -S "Minecraft Server"
 
 screen -x "Minecraft Server" -p 0 -X stuff " java -Xms<X>G -Xmx<X>G -jar <Server Name>.jar nogui\n"
 
-#Launches terminal window
+#Option to Launches terminal window
 
-Konsole -e screen -r
-#Gnome-terminal -e screen -r
 #<terminal launch command> -e screen -r
-#Put whatever terminal you use otherwise
+#i.e. Konsole, gnome-terminal, xfce4-terminal
+#These are some of the common terminal launch commands
