@@ -1,5 +1,5 @@
 # Minecraft Server Screen Launch Script
-A script for launching a Minecraft Server into a [Screen](https://www.gnu.org/software/screen/) instance in linux
+A script for launching a Minecraft Server into a [Screen](https://www.gnu.org/software/screen/) instance in linux because it is easier than setting up a new profile to run a server from
 ## Important
   - This is a framework, you will have to set up the args and server jar name
   - You mush have Screen installed
